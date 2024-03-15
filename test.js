@@ -1,4 +1,5 @@
 let firstName = "John";
+let middleName = "xelo";
 let lastName = "Doe";
 
-let text = `Welcome ${firstName}, ${lastName}!`;
+let text = `Welcome ${firstName}, ${middleName}, ${lastName}!`;
